@@ -31,9 +31,9 @@ python covermaster.py
 ![soundcloud2](https://user-images.githubusercontent.com/55880211/78242928-7fa21580-7500-11ea-9cee-bc80748ea923.gif)
 
 ## To Do
-- [x] Integrate cover.py into changer.py 
+- [x] ~Integrate cover.py into changer.py~ 
 
-### Support & Contributions
+## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
 
