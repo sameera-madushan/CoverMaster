@@ -38,4 +38,4 @@ python covermaster.py
 - Contributions of any kind welcome!
 
 ## License
-GPL-3.0 ©[sameera-madushan](https://github.com/sameera-madushan)
+CoverMaster is made with ♥ by [@_\_sa_miya__](https://twitter.com/__sa_miya__) and it is released under the GPL-3.0 license.
